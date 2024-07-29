@@ -1,0 +1,2 @@
+This repository features an area of shape calculator implemented using (programming language). The calculator supports multiple shapes such as circles, rectangle, and triangles, providing accurate area calculations based on user input.
+A useful tool for educational purposes, this project helps users understand geometric properties and computational logic. The code is structured for easy readability and modification, making it an excellent resource for learning and teaching.
